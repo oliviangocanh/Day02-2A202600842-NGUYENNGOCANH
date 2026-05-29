@@ -1,16 +1,5 @@
 # 03 — Individual Reflection Plan cho nhóm 5 người
 
-## Phân công tổng thể
-
-| Thành viên | Vai trò chính | Nhiệm vụ chính | Output nên có |
-|---|---|---|---|
-| **Long** | Coordinator + Problem Statement Owner | Tổng hợp top 3 problems của cả nhóm, chấm điểm shortlist, viết Problem Statement v0/v1/final | Bảng cluster, bảng score, Problem Statement |
-| **Ngọc Anh** | Workflow Owner | Vẽ current/future workflow cho bài toán deadline tracker, xác định bottleneck, before/after impact | Mermaid workflow, bảng before/after impact |
-| **Việt Anh** | Research Owner | Tìm các tool/case có sẵn như Google Calendar, Todoist, Microsoft To Do, Zapier, Motion/Reclaim | Bảng research giải pháp, research takeaway |
-| **Hoàng Anh** | Rule / Workflow / Agent Owner | Phân tích nên dùng Rule, Workflow hay Agent; lập luận vì sao chọn Workflow | Bảng Rule/Workflow/Agent, boundary, risk |
-| **Ngô Anh** | Validation + Risk Owner | Làm quick validation, hỏi nhanh bạn bè/sinh viên, tổng hợp feedback, viết exit/rollback | Bảng validation, risk, fallback, final decision |
-
-
 
 # Reflection cho Ngọc Anh
 
